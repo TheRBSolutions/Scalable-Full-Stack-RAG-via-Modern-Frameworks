@@ -1,15 +1,25 @@
 ---
 id: applications
-title: Real-world Applications
+title: Real-world Uses
 ---
 
-Robotics and Physical AI are moving out of research labs and into every sector of the economy.
+# Real-world Applications: The Impact of Physical AI
 
-### Industrial Automation
-Next-generation "Cobots" (Collaborative Robots) work alongside humans in factories, handling repetitive tasks while humans handle complex decision-making.
+We are moving from "Lab Prototypes" to "Commercial Deployment." Physical AI is no longer a futuristic concept; it is an industrial necessity.
 
-### Logistics and Warehousing
-Mobile robots (AMRs) like those in Amazon fulfillment centers have revolutionized how goods move, using autonomous navigation to sort and carry thousands of pounds of inventory.
+## 1. Manufacturing and "Cobots"
+Collaborative Robots (Cobots) are designed to work alongside humans. In automotive assembly, a humanoid can hold a heavy dashboard in place while a human worker performs the high-precision wiring. This reduces worker injury and increases factory throughput.
 
-### Domestic and Service Robotics
-The ultimate goal of humanoid robotics is the domestic assistant—a robot capable of doing laundry, preparing meals, and providing elder care. This requires "General Purpose" intelligence that can handle the infinite variety of a human home.
+## 2. Logistics and Last-Mile Delivery
+Companies like Agility Robotics (with their robot "Digit") are already trialing humanoids in Amazon warehouses. These robots can pick up totes, walk them across a warehouse, and place them on a conveyor. Because they have legs, they can handle stairs and uneven surfaces that would stop a wheeled robot.
+
+## 3. Disaster Response and Nuclear Decommissioning
+Humanoids like Boston Dynamics’ Atlas were originally funded for disaster response. In a nuclear meltdown or a collapsed building, we cannot send humans. A humanoid can enter the building, turn a manual valve, and clear debris using tools designed for human hands.
+
+## 4. Domestic and Healthcare Assistance
+The most challenging and rewarding application is home care. As the global population ages, humanoids will serve as "Physical Assistants"—helping people out of bed, managing medication, and performing basic cleaning. This requires the highest level of "Safety-Critical AI," as the robot is in constant contact with vulnerable humans.
+
+
+
+## 5. The Future: General Purpose Robotics
+The ultimate goal is a robot that is not built for one task, but for *any* task. Just as your smartphone replaced your camera, map, and phone, the General Purpose Humanoid will replace specialized industrial machines, becoming a universal tool for the physical world.
